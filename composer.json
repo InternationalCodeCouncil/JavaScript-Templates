@@ -1,0 +1,20 @@
+{
+  "name": "blueimp/javascript-templates",
+  "description": "< 1KB lightweight, fast & powerful JavaScript templating engine with zero dependencies. Compatible with server-side environments like node.js, module loaders like RequireJS and all web browsers.",
+  "keywords": [
+    "javascript",
+    "templates",
+    "templating"
+  ],
+  "homepage": "https://github.com/blueimp/JavaScript-Templates",
+  "authors": [
+    {
+      "name": "Sebastian Tschan",
+      "url": "https://blueimp.net"
+    }
+  ],
+  "support": {
+    "issues" : "https://github.com/blueimp/JavaScript-Templates/issues"
+  },
+  "license": "MIT"
+}

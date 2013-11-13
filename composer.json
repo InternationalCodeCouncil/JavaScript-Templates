@@ -16,5 +16,11 @@
   "support": {
     "issues" : "https://github.com/blueimp/JavaScript-Templates/issues"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "autoload": {
+    "psr-0": {
+      "Blueimp\\JsTemplatesBundle": ""
+    }
+  },
+  "target-dir": "Blueimp/JsTemplatesBundle"
 }
